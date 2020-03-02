@@ -1,0 +1,3 @@
+<?php
+  $title = "Zim Tourism";
+?>

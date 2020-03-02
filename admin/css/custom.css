@@ -1,0 +1,36 @@
+body, h1, h2, h3, h4, h5, h6, p{
+  /*font-family: 'Ubuntu', sans-serif !important;*/
+}
+.pull-right{
+  float:right;
+}
+.small_image{
+  width:30px;
+  height:30px;
+  border-radius: 100%;
+  box-shadow: 0 0 5px #eee;
+}
+.medium_image{
+  width:70px;
+  height:70px;
+  border-radius: 100%;
+  box-shadow: 0 0 5px #eee;
+}
+
+.hidden{
+  display:none;
+}
+#welcome_image{
+  background-image: url("../img/bg.png");
+  background-position: center;
+  background-size: cover;
+}
+.sidebar hr.sidebar-divider{
+  margin: 0 !important;
+}
+.card-header h6{
+  float:left;
+}
+.mr-5{
+  margin-right: 5px !important;
+}
